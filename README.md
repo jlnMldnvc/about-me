@@ -1,6 +1,19 @@
 # 💫 About Me:
-Bachelor mathematician for computer science, <br>College degree<br>Computer science and informatics department<br>Faculty of Mathematics, <br>Belgrade University<br><br>Distance Learning coordinator - Java Development<br>ITAcademy by LINK Group (Professional Education),<br>Programming Department - Learning Services<br><br>Activities regarding conducting of courses from the <br>programming field; creating new and advancing existing <br>courses; monitoring students’ progress and mentoring; <br>reviewing tasks and assignments and responding to email; <br>holding consultations.<br><br>JAVA <br><br>(Core, Advanced, Desktop, Data Access, Web, Web Services <br>and XML/JSON)<br><br>OOP; Java SE; AWT/Swing/JavaFX; ORM, JPA, JDBC, Hibernate, <br>JNDI, Jakarta EE, Servlets, JSP, JSTL, EJB, REST/SOAP, <br>DOM/SAX/StAX/JAXB, Spring Framework - MVC<br><br>FRONTEND JAVASCRIPT <br><br>(Introduction to JS;  HTML, CSS and JS Fundamentals; <br>Website Building; Advanced JS; Data Access; JS Applications; <br>Animation and Game)<br><br>ES6, DOM, Web Storage, jQuery, Ajax, <br>Vue/React/Angular Framework, Node.js, NPM, TypeScript, <br>Canvas API<br><br>Programming in HTML5 with JavaScript and CSS3<br><br>MySQL programming and administration (RDBMS)<br><br>Introduction to Software Development and QA<br><br>ANDROID MOBILE <br>(Introduction, Geolocation and Sensor, Animation and Game)<br><br>Introduction in AI tools – ChatGPT & Midjourney<br><br>PHP<br><br>
+Bachelor mathematician for computer science, College degree, Computer science and informatics department, Faculty of Mathematics, Belgrade University
 
+Distance Learning coordinator - Java Development, ITAcademy by LINK Group (Professional Education), Programming Department - Learning Services
+
+Activities regarding conducting of courses from the programming field; creating new and advancing existing courses; monitoring students’ progress and mentoring; reviewing tasks and assignments and responding to email; holding consultations.
+JAVA (Core, Advanced, Desktop, Data Access, Web, Web Services and XML/JSON)
+OOP; Java SE; AWT/Swing/JavaFX; ORM, JPA, JDBC, Hibernate, JNDI, Jakarta EE, Servlets, JSP, JSTL, EJB, REST/SOAP, DOM/SAX/StAX/JAXB, Spring Framework - MVC
+FRONTEND JAVASCRIPT (Introduction to JS; HTML, CSS and JS Fundamentals; Website Building; Advanced JS; Data Access; JS Applications; Animation and Game)
+ES6, DOM, Web Storage, jQuery, Ajax, Vue/React/Angular Framework, Node.js, NPM, TypeScript, Canvas API
+Programming in HTML5 with JavaScript and CSS3
+MySQL programming and administration (RDBMS)
+Introduction to Software Development and QA
+ANDROID MOBILE (Introduction, Geolocation and Sensor, Animation and Game)
+Introduction in AI tools – ChatGPT & Midjourney
+PHP
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jelena-mladenović) 
