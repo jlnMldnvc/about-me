@@ -4,15 +4,24 @@ Bachelor mathematician for computer science, College degree, Computer science an
 Distance Learning coordinator - Java Development, ITAcademy by LINK Group (Professional Education), Programming Department - Learning Services
 
 Activities regarding conducting of courses from the programming field; creating new and advancing existing courses; monitoring students’ progress and mentoring; reviewing tasks and assignments and responding to email; holding consultations.
+
 JAVA (Core, Advanced, Desktop, Data Access, Web, Web Services and XML/JSON)
+
 OOP; Java SE; AWT/Swing/JavaFX; ORM, JPA, JDBC, Hibernate, JNDI, Jakarta EE, Servlets, JSP, JSTL, EJB, REST/SOAP, DOM/SAX/StAX/JAXB, Spring Framework - MVC
+
 FRONTEND JAVASCRIPT (Introduction to JS; HTML, CSS and JS Fundamentals; Website Building; Advanced JS; Data Access; JS Applications; Animation and Game)
 ES6, DOM, Web Storage, jQuery, Ajax, Vue/React/Angular Framework, Node.js, NPM, TypeScript, Canvas API
+
 Programming in HTML5 with JavaScript and CSS3
+
 MySQL programming and administration (RDBMS)
+
 Introduction to Software Development and QA
+
 ANDROID MOBILE (Introduction, Geolocation and Sensor, Animation and Game)
+
 Introduction in AI tools – ChatGPT & Midjourney
+
 PHP
 
 ## 🌐 Socials:
